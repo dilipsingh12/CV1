@@ -1,0 +1,49 @@
+h2{
+    font-family: Roboto,arial;
+    color:rgb(16, 154, 154);
+    margin-bottom:0;
+}
+ul,b,p{
+    font-family:'Roboto Condensed', sans-serif;
+}
+.Personal_Profile,.Declaration p{
+    margin:2px;
+}
+.dp{
+    height: 10em;
+    width: 10em;
+    border: 1px gray solid;
+    position: absolute;
+    right: 10vw;
+    top: 5vh;
+    
+}
+hr{
+    height:0.5vh;
+    background-color:rgb(16, 154, 154);
+    border:none;
+    margin:0;
+}
+.link{
+    color:rgb(16, 154, 154);
+}
+.link:visited{
+    color:rgb(16, 154, 154);
+}
+p{
+    margin:0;
+}
+.dob,.food{
+    margin-top:10px;
+}
+.dec{
+    margin-bottom:10px;
+}
+.name{
+    font-size:2.17em;
+    margin-bottom: 3.5vh;
+    font-family: 'Asap', sans-serif;
+}
+.dilip{
+    color:rgb(16, 154, 154);
+}
